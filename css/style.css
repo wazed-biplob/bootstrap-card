@@ -8,7 +8,14 @@
 .card {
     border-width: 0;
 }
-
+#social-icons {
+    background-color: rgba(173, 216, 230, 0.555);
+}
+#social-icons > i {
+    font-size: 28px;
+    color: lightslategray;
+    
+}
 @media screen and (max-width: 576px) {
     .card {
         width: 100%;
